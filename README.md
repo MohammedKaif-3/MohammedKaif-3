@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **technologies like Machine Learning and Computer Vision and enhancing my skills**
 
-- 📫 How to reach me **shaikmohammedkaif98@gmail.com**
+- 📫 How to reach me **mohammedzaif61@gmail.com**
 
 - ⚡ Fun fact **I believe that technology can transform ideas into impactful realities!**
 
