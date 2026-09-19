@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mohammed Kaif</h1>
-<h3 align="center">I'm a Final-Year B.Tech Computer Science Engineering Student with a strong passion for programming and creating impactful solutions, innovation, and continuous learning.</h3>
+# Hi 👋, I'm Mohammed Kaif
+### Software Engineer | Full-Stack & AI Application Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedkaif-3&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedkaif-3" /> </p>
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/mohammed003) | 📧 [Direct Email](mailto:mohammedzaif61@gmail.com)
 
-- 🌱 I’m currently learning **Always exploring new technologies and enhancing my skills. Currently Machine Learning and Computer Vision.**
+---
 
-- 📫 How to reach me **mohammedzaif61@gmail.com**
+### 🚀 Engineering Philosophy & Profile
 
-- ⚡ Fun fact **I believe that technology can transform ideas into impactful realities!**
+I am a **2026 Computer Science Engineering graduate** from Kandula Obul Reddy Memorial College of Engineering, built on a foundation of rigorous problem-solving. I view development through the lens of structural integrity—I don’t just write code that works; I design optimized, scalable systems anchored by rock-solid **Data Structures & Algorithms (DSA)** and strict **Object-Oriented Design (OOP)**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedkaif003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammedkaif003/" height="30" width="40" /></a>
-<a href="https://instagram.com/kaif_shaik_7_8_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaif_shaik_7_8_6" height="30" width="40" /></a>
-</p>
+My core competence sits at the intersection of full-stack web architectures and backend engineering. Whether I am writing high-performance algorithm logic in C++, optimizing heavy relational query sets in MySQL, or structuring front-end states in React, I engineer for **runtime efficiency** and **clean code architecture**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I am actively targeting full-time **Entry-Level Software Engineering / Developer roles** where I can jump straight into production codebases, tackle complex engineering constraints, and deliver immediate architectural value.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedkaif-3&show_icons=true&locale=en&layout=compact" alt="mohammedkaif-3" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedkaif-3&show_icons=true&locale=en" alt="mohammedkaif-3" /></p>
+### 🏆 Featured Production Work
+
+#### 🚀 AI Resume Builder — SaaS Application
+*Stack: React.js, Node.js, Express.js, MongoDB, Gemini API, Vercel, Render*
+
+This platform is the absolute distillation of my development philosophy. Rather than a standard sandbox script, I engineered a live, production-grade SaaS application from scratch that handles real-world states for **55+ active users**.
+
+*   **AI Integration & Logic:** Implemented clean API plumbing to bridge front-end states with an LLM (Gemini API) and built an NLP evaluation matrix to parse and score documentation for real-time ATS compliance.
+*   **Database & Architecture:** Applied foundational data concepts to structure safe MongoDB collections, ensuring high-velocity data retrieval and zero workflow bottlenecks.
+*   **Full-Lifecycle Ownership:** Broke down a highly complex scoped problem, built out the backend services, ran validation testing, and deployed the live app autonomously across Vercel and Render.
+
+---
+
+### 🧰 The Technical Grid
+
+*   🧠 **Core & Logic:** C++ | Python | Data Structures & Algorithms (DSA) | Object-Oriented Programming (OOP)
+*   💻 **Full-Stack Web:** React.js | Node.js | JavaScript (ES6+) | Express.js | HTML5 & CSS3
+*   🗄️ **Databases:** MySQL | MongoDB | SQLite
+*   🛠️ **Tools & Platforms:** Git | GitHub | Vercel | Render | Android Studio
+
+---
+
+*Let’s build something runtime-efficient together. Reach out via email or LinkedIn to discuss how my stack fits your engineering openings!*
